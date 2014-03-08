@@ -1,3 +1,36 @@
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
 	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = git@github.com:klen/python-mode.git
+[submodule "bundle/scss-syntax"]
+	path = bundle/scss-syntax
+	url = git@github.com:cakebaker/scss-syntax.vim.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = git@github.com:tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-jade"]
+	path = bundle/vim-jade
+	url = git@github.com:digitaltoad/vim-jade.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "bundle/vim-python-pep8-intent"]
+	path = bundle/vim-python-pep8-intent
+	url = git@github.com:hynek/vim-python-pep8-indent.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = git@github.com:msanders/snipmate.vim.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git@github.com:tpope/vim-surround.git
